@@ -1,0 +1,4 @@
+{
+  "run": "cd \"/home/logic_graph\" && quarks run",
+  "build": "cd \"/home/logic_graph\" && quarks build"
+}
